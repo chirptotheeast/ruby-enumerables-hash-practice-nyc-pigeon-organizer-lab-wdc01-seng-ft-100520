@@ -16,12 +16,6 @@ def nyc_pigeon_organizer(data)
        end
     end
   end
-
- #data.fetch(:brown)
- #data.fetch(:black)
- 
- #data.fetch
-
 end
 
 
